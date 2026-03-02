@@ -26,9 +26,9 @@
 
 ✨ **[react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker)** — Universal IDE extension showing React Compiler optimizations
 
-🎨 **[react-native-effects](https://github.com/nickcopi/react-native-effects)** — WebGPU-powered shader effects running on background threads
+🎨 **[react-native-effects](https://github.com/blazejkustra/react-native-effects)** — WebGPU-powered shader effects running on background threads
 
-🧊 **[react-native-3d](https://github.com/nickcopi/react-native-3d)** — WebGPU-powered 3D model viewer for React Native
+🧊 **[react-native-3d](https://github.com/blazejkustra/react-native-3d)** — WebGPU-powered 3D model viewer for React Native
 
 🚀 **[react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding)** — Customizable onboarding flows for React Native
 
