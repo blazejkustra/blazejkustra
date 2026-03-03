@@ -30,6 +30,8 @@
 
 🧊 **[react-native-3d](https://github.com/blazejkustra/react-native-3d)** — WebGPU-powered 3D model viewer for React Native
 
+🧭 **[blaze-navigation](https://github.com/blazejkustra/blaze-navigation)** - Blazingly fast & simple React Native navigation
+
 🚀 **[react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding)** — Customizable onboarding flows for React Native
 
 🔔 **[react-native-alert](https://github.com/blazejkustra/react-native-alert)** — Cross-platform customizable alerts and prompts
