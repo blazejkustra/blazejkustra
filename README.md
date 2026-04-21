@@ -26,6 +26,9 @@
 
 ✨ **[react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker)** — Universal IDE extension showing React Compiler optimizations
 
+🍞 **[react-native-pretty-toast](https://github.com/blazejkustra/react-native-pretty-toast)** — Dynamic Island toast notifications   
+  for iOS, Android, and Web
+
 🎨 **[react-native-effects](https://github.com/blazejkustra/react-native-effects)** — WebGPU-powered shader effects running on background threads
 
 🧊 **[react-native-3d](https://github.com/blazejkustra/react-native-3d)** — WebGPU-powered 3D model viewer for React Native
