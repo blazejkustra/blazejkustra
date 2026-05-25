@@ -50,3 +50,6 @@
 [![LinkedIn](https://img.shields.io/badge/kustrablazej-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kustrablazej)
 [![Medium](https://img.shields.io/badge/@kustrablazej-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kustrablazej)
 [![GitHub](https://img.shields.io/github/followers/blazejkustra?label=Follow&style=flat-square&logo=github)](https://github.com/blazejkustra)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=blazejkustra)
+
