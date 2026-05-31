@@ -19,7 +19,7 @@
 - 🛠 Expertise in React Native and building real products at **[@software-mansion](https://github.com/software-mansion)**
 - 🤖 Agentic Engineering - harnessing AI agents to move fast and build more
 - 🧙 **React Compiler** & **Typescript** expert
-- 🌀 Building fun stuff with **WebGPU** 
+- 🎛 Building fun stuff with **WebGPU** 
 - 🎤 Workshop: *"Universal apps in React Native"* at **App.js 2025**
 
 ## Current Projects
@@ -29,6 +29,8 @@
 🍞 **[react-native-pretty-toast](https://github.com/blazejkustra/react-native-pretty-toast)** — Dynamic Island toast notifications for iOS, Android, and Web
 
 🎨 **[react-native-effects](https://github.com/blazejkustra/react-native-effects)** — WebGPU-powered shader effects running on background threads
+
+🌀 **[react-native-morph-view](https://github.com/blazejkustra/react-native-morph-view)** — Morph one image into another with a smooth gooey effect
 
 🧊 **[react-native-3d](https://github.com/blazejkustra/react-native-3d)** — WebGPU-powered 3D model viewer for React Native
 
