@@ -24,6 +24,8 @@
 
 ## Current Projects
 
+🔍 **[softlint](https://github.com/blazejkustra/softlint)** — GitHub Action enforcing plain-English code rules a linter can't
+
 ✨ **[react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker)** — Universal IDE extension showing React Compiler optimizations
 
 🍞 **[react-native-pretty-toast](https://github.com/blazejkustra/react-native-pretty-toast)** — Dynamic Island toast notifications for iOS, Android, and Web
@@ -32,15 +34,15 @@
 
 🌀 **[react-native-morph-view](https://github.com/blazejkustra/react-native-morph-view)** — Morph one image into another with a smooth gooey effect
 
-🧊 **[react-native-3d](https://github.com/blazejkustra/react-native-3d)** — WebGPU-powered 3D model viewer for React Native
-
-🧭 **[blaze-navigation](https://github.com/blazejkustra/blaze-navigation)** - Blazingly fast & simple React Native navigation
-
-🚀 **[react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding)** — Customizable onboarding flows for React Native
-
 🔔 **[react-native-alert](https://github.com/blazejkustra/react-native-alert)** — Cross-platform customizable alerts and prompts
 
 ## Legacy Projects
+
+🧊 **[react-native-3d](https://github.com/blazejkustra/react-native-3d)** — WebGPU-powered 3D model viewer for React Native
+
+🧭 **[blaze-navigation](https://github.com/blazejkustra/blaze-navigation)** — Blazingly fast & simple React Native navigation
+
+🚀 **[react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding)** — Customizable onboarding flows for React Native
 
 💾 **[dynamode](https://github.com/blazejkustra/dynamode)** — Easiest ORM for Amazon DynamoDB
 
