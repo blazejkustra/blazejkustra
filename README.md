@@ -1,5 +1,13 @@
 # Hi, I'm Błażej 👋
 
+## 🎬 Uncut
+
+**[Uncut](https://uncut.video)** is an AI-first video editor for the Mac with an agent built in. It runs your installed Claude Code, which plans the cut, edits a real timeline while you watch, and hands every change back to you to keep or undo.
+
+**[uncut.video](https://uncut.video)** | **[GitHub repo](https://github.com/blazejkustra/uncut)**
+
+[![Uncut, an AI-first video editor for the Mac](assets/uncut.jpg)](https://uncut.video)
+
 **Kraków, Poland** | **DevRel** at **[@software-mansion](https://github.com/software-mansion)**
 
 After 6+ years of building mobile apps for clients, I moved into Developer Relations. Now I'm working on **Argent**, using everything I learned about what makes dev tools great (and what makes them painful) to help make it the best place to build mobile apps.
