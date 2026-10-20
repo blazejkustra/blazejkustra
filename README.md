@@ -25,7 +25,7 @@ After 6+ years of building mobile apps for clients, I moved into Developer Relat
 
 ## Current Projects
 
-**[Uncut](https://uncut.video)** is an AI-first video editor for the Mac with an agent built in. 
+🎬 **[Uncut](https://uncut.video)** is an AI-first video editor for the Mac with an agent built in. 
 
 🔍 **[softlint](https://github.com/blazejkustra/softlint)**: GitHub Action enforcing plain-English code rules a linter can't
 
